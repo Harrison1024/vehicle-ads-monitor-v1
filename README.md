@@ -90,6 +90,20 @@ vehicle-ads-monitor-v1/
 └── requirements.txt
 ```
 
+## Capturas
+
+### Alertas automáticas por Telegram
+
+![Telegram](ScreenShots/screenshot01.png)
+
+### Dashboard de análisis
+
+![Dashboard](ScreenShots/screenshot02.png)
+
+### Base de datos SQLite
+
+![Database](ScreenShots/screenshot03.png)
+
 ## Estado del proyecto
 
 ⚠️ Legacy Version (V1)
