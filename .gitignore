@@ -1,0 +1,12 @@
+neoauto.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+*.db
+*.log
+
+.env
+
+.vscode/
